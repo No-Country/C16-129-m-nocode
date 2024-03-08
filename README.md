@@ -27,11 +27,11 @@ Conexión a internet
 
 
 
-Enlaces:
-Sitio web: 
-Tienda de aplicaciones:
-Próximamente:
+Enlaces: **********
+Sitio web: *************
+Tienda de aplicaciones: ************
 
+Próximamente:
 Integración de pasarelas de pago seguras.
 Sistema de seguimiento de pedidos.
 Chat en vivo para atención al cliente.
