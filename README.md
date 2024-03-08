@@ -41,7 +41,7 @@ Chat en vivo para atención al cliente.
 
 No dudes en contactarnos a través de nuestro sitio web o en las redes sociales:
 
-Facebook:
-Instagram:
-Twitter:
+Facebook: *****************
+Instagram: *****************
+Twitter: *******************
 ¡Gracias por elegir TechCraft Assembler!
