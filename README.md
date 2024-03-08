@@ -1,32 +1,47 @@
 
 # C16-129-m-nocode
-Documentación para la app de armado de PC
-1. Público objetivo:
+TechCraft Assembler: ¡Arma tu PC ideal!
+TechCraft Assembler es una aplicación de e-commerce que te permite comprar todo lo necesario para armar tu computadora ideal, ya sea para gaming, streaming, informática o cualquier otro uso.
 
-Perfil:
+Encuentra todo lo que necesitas:
 
-Edad: +18 años
-Nivel de conocimiento: Principiantes, intermedios y avanzados en informática
-Intereses: Tecnología, videojuegos, diseño, edición de video, etc.
-Necesidades: Armar un PC a la medida de sus necesidades y presupuesto, obtener información sobre componentes, compatibilidad y ensamblaje.
-Desafíos:
+Componentes: Amplia variedad de componentes para armar tu PC, desde procesadores y tarjetas gráficas hasta memorias RAM y almacenamiento.
+Accesorios: Encuentra todo lo que necesitas para completar tu setup, como teclados, mouse, monitores y mucho más.
+Servicios: Contacta con técnicos especializados para el armado y mantenimiento de tu computadora.
+Funcionalidades principales:
 
-Elegir los componentes adecuados para su presupuesto y necesidades.
-Entender la compatibilidad entre los diferentes componentes.
-Encontrar información confiable sobre los componentes.
-Armar el PC correctamente.
+Búsqueda rápida y sencilla de componentes.
+Filtros por marca, modelo, precio y otras características.
+Carrito de compras para finalizar tu compra en pocos pasos.
+Perfil de usuario con acceso a historial de compras, información personal y preferencias.
+Sección de técnicos para encontrar y contactar a especialistas en tu zona.
 
-2. Propuesta de valor:
+Tecnologías utilizadas:
+Flutter Flow
+Firebase
 
-Propósito:
+Requisitos:
+Sistema operativo: Android (versión 5.0 o superior) / iOS (versión 12.0 o superior)
+Conexión a internet
 
-Ayudar a los usuarios a armar un PC a la medida de sus necesidades y presupuesto.
-Brindar información completa y confiable sobre los componentes.
-Facilitar el proceso de ensamblaje del PC.
-Propuesta de valor única (PVU):
 
-Interfaz intuitiva y fácil de usar para principiantes.
-Amplia base de datos de componentes con información detallada y actualizada.
-Herramienta de compatibilidad para verificar la compatibilidad entre los componentes.
-Guía paso a paso para el ensamblaje del PC.
-Comunidad de usuarios para compartir experiencias y obtener ayuda.
+
+
+Enlaces:
+Sitio web: 
+Tienda de aplicaciones:
+Próximamente:
+
+Integración de pasarelas de pago seguras.
+Sistema de seguimiento de pedidos.
+Chat en vivo para atención al cliente.
+¡Descarga TechCraft Assembler ahora mismo y comienza a armar tu PC ideal!
+
+¿Necesitas ayuda?
+
+No dudes en contactarnos a través de nuestro sitio web o en las redes sociales:
+
+Facebook:
+Instagram:
+Twitter:
+¡Gracias por elegir TechCraft Assembler!
